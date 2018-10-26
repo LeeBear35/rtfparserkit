@@ -1,3 +1,7 @@
+Support for converting to HTML from RTF messages in Outlook MSG files.
+======================================================================
+This is an extension to the RTF Parser Kit to support Exchange extensions and some of the older commands that still exist in *Outlook Messages* to provide better support of converting the MSG files to RFC822 EML files. 
+
 RTF Parser Kit
 ==============
 
